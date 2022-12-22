@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "biw+2OhCeeEOvVv+jrLdKGWphMoJicN0qU56PpbK7hTcnZBj8HzjNJ7pnf2OXL8UjhYwkSiy3mUyuGCbyoaxVw==",
+  "dgSpecHash": "fb+M48NO43vqEl+/W1JFREphZ6pWTP4lBxnUFEzRPZD24AIRkxph8YqhorIkHfx8cQ7kk4ZmqnQgrIi7ljHkdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\Users\\student\\Desktop\\RuAp LV6\\LV6\\Zadatak 1\\RuAp_Lv6_Zad1\\RuAp_Lv6_Zad1\\RuAp_Lv6_Zad1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
